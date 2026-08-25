@@ -28,43 +28,63 @@ Estou sempre estudando novas tecnologias e transformando esse aprendizado em pro
 
 ---
 
-## Tecnologias
+## Tecnologias e Ferramentas
+
+### Back-End
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+</p>
+
+Python • Django • FastAPI • REST APIs
+
+### Banco de Dados
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
+</p>
+
+PostgreSQL • SQLite • Supabase • pgvector
+
+### Front-End
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+</p>
+
+JavaScript • TypeScript • HTML • CSS
+
+### DevOps e Ferramentas
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
 </p>
 
-### Back-End
-
-Python • Django • FastAPI • APIs REST
-
-### Banco de Dados
-
-PostgreSQL • SQLite • Supabase • pgvector
-
-### Front-End
-
-JavaScript • TypeScript • HTML • CSS
-
-### DevOps e Ferramentas
-
-Git • GitHub • Docker • Render
+Git • GitHub • Docker • Render • Visual Studio Code
 
 ### Inteligência Artificial
 
-Generative AI • RAG • AI Agents • LangChain • LangGraph • OpenAI Agents SDK • LlamaIndex
+<p>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="40" title="LangChain"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph.svg" width="40" title="LangGraph"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" title="OpenAI"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex.svg" width="40" title="LlamaIndex"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai.svg" width="40" title="CrewAI"/>
+</p>
+
+**Frameworks e ferramentas:** LangChain • LangGraph • OpenAI Agents SDK • LlamaIndex • CrewAI
+
+**IA aplicada:** RAG • AI Agents • Generative AI • LLMs • Vector Databases
 
 
 
